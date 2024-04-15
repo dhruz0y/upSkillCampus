@@ -27,10 +27,6 @@ sudo apt install git curl unzip tar make sudo vim wget -y
 ```
 
 ```bash
-sudo apt install git curl unzip tar make sudo vim wget -y
-```
-
-```bash
 git clone "Your-repository"
 ```
 
