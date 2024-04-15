@@ -1,4 +1,4 @@
-# upSkillCampus
+# USC_UCT_Cloud_Computing_Internship
 
 ## Parkinson's Disease Detection using Cloud Computing
 
@@ -42,3 +42,23 @@ pip3 install -r requirements.txt
 ```bash
 nohup python3 -m streamlit run parkinsons web app.py
 ```
+
+
+### Result Screenshots:
+
+![WhatsApp Image 2024-04-15 at 18 13 48_f07efce4](https://github.com/DeV-21/upSkillCampus/assets/113814933/c574ec2e-cc4f-494d-9b08-f2f09546515a)
+
+![WhatsApp Image 2024-04-15 at 18 14 16_4cb46d1f](https://github.com/DeV-21/upSkillCampus/assets/113814933/176f05b5-3469-4a79-a1f3-6bb56ddc1a74)
+
+![WhatsApp Image 2024-04-15 at 18 14 37_772d6acb](https://github.com/DeV-21/upSkillCampus/assets/113814933/02189cd8-5b5b-407b-bb69-ca28fd1060a6)
+
+![WhatsApp Image 2024-04-15 at 18 07 59_106dfab1](https://github.com/DeV-21/upSkillCampus/assets/113814933/f0700a11-f517-49ac-9d77-bb1bc89fcfee)
+
+![WhatsApp Image 2024-04-15 at 18 08 51_be38cc6a](https://github.com/DeV-21/upSkillCampus/assets/113814933/8a85af1f-a8d6-440a-97bb-41b80e533be6)
+
+![WhatsApp Image 2024-04-15 at 18 09 20_ad6289bd](https://github.com/DeV-21/upSkillCampus/assets/113814933/96299b8f-5f2c-4d15-bdbc-cb1488c67928)
+
+![WhatsApp Image 2024-04-15 at 21 09 09_bae5ff6e](https://github.com/DeV-21/upSkillCampus/assets/113814933/10b146ae-66d0-45a2-818a-443804708575)
+
+#### Deployment Link: https://ec2-13-201-77-221.ap-south-1.compute.amazonaws.com/
+(We terminated the instance since it was running on t2.medium and had pay-as-you-go pricing.)
